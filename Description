@@ -1,0 +1,4 @@
+Text preprocessing: lower case, remove special characters, tokenization, remove stop_word, stemming
+Clustering text to topics based on LDA algorithm
+Clustering features that has high similarity based on Kmeans algorithm
+Data Mining based on apriori and FP-tree algorithm
